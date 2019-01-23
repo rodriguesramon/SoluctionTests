@@ -1,0 +1,2 @@
+C:\Users\Ramon Costa\source\repos\SoluctionProject\SoluctionProject\obj\Debug\SoluctionProject.csprojAssemblyReference.cache
+C:\Users\Ramon Costa\source\repos\SoluctionProject\SoluctionProject\obj\Debug\SoluctionProject.csproj.CoreCompileInputs.cache
